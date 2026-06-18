@@ -59,12 +59,14 @@ Computational Biology**
 •	Multi-omics data interpretation
 
 **Machine Learning & AI**
+
 •	XGBoost
 •	Deep Learning (ANN, LSTM, BERT)
 •	Statistical modelling
 •	Explainable AI
 ________________________________________
 **Publications**
+
 Radhakrishnan, S. & Sobhia, M.E. (2021)
 An In Silico Approach for Epitope-Based Vaccine Design Against Ebola Virus
 Archives of Microbiology & Immunology
