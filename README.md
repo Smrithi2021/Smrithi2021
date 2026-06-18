@@ -32,8 +32,8 @@ Integrated analysis of transcriptomic, mutational, and clinical datasets to inve
 
 **Pathway and Single-Cell Analysis of Tumour Heterogeneity**
 Application of GSEA, clustering, and single-cell transcriptomic analyses to characterize tumour microenvironment complexity and identify biological programs associated with aggressive disease phenotypes.
-**
-Computational Immunology for Epitope Prediction and Vaccine Design**
+
+**Computational Immunology for Epitope Prediction and Vaccine Design**
 Development of computational pipelines for epitope prediction, immunogenicity assessment, and structural analysis of epitope–HLA interactions to support rational vaccine design.
 
 **Healthcare NLP and Predictive Modelling**
