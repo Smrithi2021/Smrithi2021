@@ -59,7 +59,6 @@ ________________________________________
 •	Multi-omics data interpretation
 
 **Machine Learning & AI**
-
 •	XGBoost
 •	Deep Learning (ANN, LSTM, BERT)
 •	Statistical modelling
