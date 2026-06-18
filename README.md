@@ -7,12 +7,19 @@ I am a computational biology researcher with training in Pharmacoinformatics (M.
 I am particularly interested in applying machine learning and computational approaches to analyse high-dimensional biological datasets, integrate multimodal molecular and clinical information, and investigate disease mechanisms, cellular heterogeneity, therapeutic response, and biologically relevant phenotypes across diverse disease contexts.
 ________________________________________
 Research Areas
+
 •	Computational oncology and precision medicine
+
 •	Transcriptomics and single-cell genomics
+
 •	Tumour heterogeneity and tumour microenvironment analysis
+
 •	Machine learning and deep learning for biomedical data
+
 •	Multimodal integration of omics and clinical datasets
+
 •	Computational immunology and therapeutic target discovery
+
 •	AI-enabled translational research
 ________________________________________
 Featured Projects
