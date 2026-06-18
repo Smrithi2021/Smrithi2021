@@ -41,7 +41,7 @@ Implementation of transformer-based (BERT) and deep learning approaches for heal
 ________________________________________
 **Technical Skills**
 
-Programming & Data Science
+**Programming & Data Science**
 •	Python
 •	Scikit-learn
 •	TensorFlow
@@ -49,8 +49,8 @@ Programming & Data Science
 •	Git/GitHub
 •	UNIX/Linux
 •	Jupyter Notebooks
-**
-Computational Biology**
+
+**Computational Biology**
 •	Transcriptomic analysis
 •	Single-cell RNA-seq analysis
 •	GSEA and pathway enrichment
