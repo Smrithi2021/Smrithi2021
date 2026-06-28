@@ -1,10 +1,8 @@
 
 Hi, I'm Smrithi Radhakrishnan
 
-**Computational Biology | Translational Medicine | Machine Learning | Clinical Drug Safety**
+**Computational Biology | Translational Medicine | Clinical Drug Safety | AI & Machine Learning **
 
-I am a computational biology researcher with training in Pharmacoinformatics (M.S. Pharm., NIPER Mohali) and over seven years of experience at Novartis supporting clinical safety activities. My work combines biological, clinical, and computational perspectives to address questions in disease biology, precision medicine, and translational research.
-I am particularly interested in applying machine learning and computational approaches to analyse high-dimensional biological datasets, integrate multimodal molecular and clinical information, and investigate disease mechanisms, cellular heterogeneity, therapeutic response, and biologically relevant phenotypes across diverse disease contexts.
 ________________________________________
 **Research Areas**
 
